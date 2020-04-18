@@ -1010,6 +1010,7 @@ body {
 }
 .dashboard .table > tbody > tr > td {
   font-size: 14px;
+  vertical-align: middle;
 }
 .dashboard .table > tbody > tr > td span.low {
   color: #29a5f7;
@@ -1120,9 +1121,10 @@ body {
   transform: translateY(-1px);
   outline: none;
 }
-
+.dashboard .table{
+  border: 1px solid #eee;
+}
 .dashboard .table > thead > tr > th {
-  background-color: #f9fafc;
   color: #8a97ab;
   font-weight: normal;
   font-size: 13px;
@@ -1246,5 +1248,22 @@ textarea {
   padding: 19px;
   border: 1px solid #eee;
   margin-top: 15px;
+}
+
+.tailor_order_table .order_img {
+  width: 35px;
+}
+.tailor-Order-details {
+  list-style: none;
+  margin: 0px;
+  padding: 0px 0px;
+}
+.tailor-Order-details li {
+  padding-right: 10px;
+  display: inline-block;
+  color: #827f7f;
+}
+.tailor-Order-details .d-order_img {
+  width: 25px;
 }
 /* dashboard css end */
