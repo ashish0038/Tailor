@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.553" height="21.553" viewBox="0 0 21.553 21.553">
+  <g id="Group_1241" data-name="Group 1241" transform="translate(-4531 -716.447)">
+    <g id="calculator" transform="translate(4531 716.447)">
+      <g id="Group_1234" data-name="Group 1234" transform="translate(0 2.694)">
+        <g id="Group_1233" data-name="Group 1233">
+          <path id="Path_1334" data-name="Path 1334" d="M18.185,64H10.1a.674.674,0,0,0-.674.674v2.142a8.075,8.075,0,1,0,3.112,1.226h5.644a.674.674,0,0,0,.674-.674V64.674A.674.674,0,0,0,18.185,64ZM14.818,74.776a6.735,6.735,0,1,1-6.735-6.735A6.743,6.743,0,0,1,14.818,74.776Zm2.694-8.082H10.776V65.347h6.735Z" transform="translate(0 -64)" fill="#101a56"/>
+        </g>
+      </g>
+      <g id="Group_1236" data-name="Group 1236" transform="translate(6.735)">
+        <g id="Group_1235" data-name="Group 1235">
+          <path id="Path_1335" data-name="Path 1335" d="M173.47,0H161.347A1.349,1.349,0,0,0,160,1.347V3.368a.674.674,0,0,0,1.347,0V1.347H173.47V17.512H170.1a.674.674,0,0,0,0,1.347h3.368a1.349,1.349,0,0,0,1.347-1.347V1.347A1.349,1.349,0,0,0,173.47,0Z" transform="translate(-160)" fill="#101a56"/>
+        </g>
+      </g>
+      <g id="Group_1238" data-name="Group 1238" transform="translate(17.369 9.347)">
+        <g id="Group_1237" data-name="Group 1237" transform="translate(0 0)">
+          <rect id="Rectangle_518" data-name="Rectangle 518" width="2" height="1" transform="translate(-0.369 0.205)" fill="#22cae8"/>
+        </g>
+      </g>
+      <g id="Group_1240" data-name="Group 1240" transform="translate(17.369 13.572)">
+        <g id="Group_1239" data-name="Group 1239" transform="translate(0 0)">
+          <rect id="Rectangle_519" data-name="Rectangle 519" width="2" height="1" transform="translate(-0.369 -0.02)" fill="#22cae8"/>
+        </g>
+      </g>
+    </g>
+    <text id="GST" transform="translate(4539 732)" fill="#22cae8" font-size="6" font-family="Okra-SemiBold, Okra" font-weight="600"><tspan x="-6.012" y="0">GST</tspan></text>
+  </g>
+</svg>

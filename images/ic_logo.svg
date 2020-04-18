@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="185" height="49" viewBox="0 0 185 49">
+  <g id="Group_52" data-name="Group 52" transform="translate(-50 -31)">
+    <g id="Group_48" data-name="Group 48" transform="translate(-18 -4)">
+      <text id="Custom_tailor" data-name="Custom tailor" transform="translate(188 57)" fill="#101a56" font-size="19" font-family="Okra-SemiBold, Okra" font-weight="600"><tspan x="-64.37" y="0">Custom Tailor</tspan></text>
+      <path id="line" d="M0,0H128" transform="translate(124.5 63.949)" fill="none" stroke="#22cae8" stroke-width="0.5" opacity="0.649"/>
+      <text id="tailor_to_every_India" data-name="tailor to every India" transform="translate(188 79)" fill="gray" font-size="10" font-family="Okra-Light, Okra" font-weight="300" letter-spacing="0.157em"><tspan x="-63.942" y="0">Tailor To Every India</tspan></text>
+    </g>
+    <g id="Group_51" data-name="Group 51" transform="translate(-72 -3)">
+      <circle id="Ellipse_235" data-name="Ellipse 235" cx="24.5" cy="24.5" r="24.5" transform="translate(122 34)" fill="#22cae8"/>
+      <g id="sewing-machine_1_" data-name="sewing-machine (1)" transform="translate(133.154 48.74)">
+        <g id="Group_50" data-name="Group 50" transform="translate(0 0)">
+          <g id="Group_49" data-name="Group 49">
+            <path id="Path_5" data-name="Path 5" d="M24.9,79.492H23.792a.553.553,0,1,0,0-1.107H23a12.484,12.484,0,0,1-.869-3.873,4.2,4.2,0,0,1,.4-1.387,7.853,7.853,0,0,0,.708-3.04,3.8,3.8,0,0,0-3.32-3.821V64.553a.553.553,0,1,0-1.107,0v1.683c-1.05.066-2.845.281-4.74.508-2.363.282-4.807.575-5.773.575-1.663,0-2.766-1.181-2.766-1.66a1.66,1.66,0,1,0-3.32,0v7.746A1.657,1.657,0,0,0,3.32,74.964v2.868a.553.553,0,0,0,1.107,0V74.964a1.655,1.655,0,0,0,1.1-1.444c.316-1.416,3.518-2.135,6.86-1.53,2.091.376,4.452,1.388,4.222,3a5.246,5.246,0,0,1-1.859,3.4h-.912a.553.553,0,1,0,0,1.107H1.66A1.662,1.662,0,0,0,0,81.152v1.107a1.662,1.662,0,0,0,1.66,1.66H24.9a1.662,1.662,0,0,0,1.66-1.66V81.152A1.662,1.662,0,0,0,24.9,79.492ZM4.426,73.406a.553.553,0,1,1-1.107,0V65.66a.553.553,0,1,1,1.107,0ZM17.7,75.145c.286-2-1.678-3.623-5.121-4.244-2.637-.476-5.5-.216-7.045.868V67.49a4.547,4.547,0,0,0,2.766.936c1.032,0,3.509-.3,5.9-.583,2.148-.258,4.369-.523,5.161-.523a2.709,2.709,0,0,1,2.766,2.766,6.812,6.812,0,0,1-.63,2.629,4.969,4.969,0,0,0-.477,1.8,14.069,14.069,0,0,0,.779,3.873H16.342A6.693,6.693,0,0,0,17.7,75.145Zm7.753,7.114a.554.554,0,0,1-.553.553H1.66a.554.554,0,0,1-.553-.553V81.152A.554.554,0,0,1,1.66,80.6H24.9a.554.554,0,0,1,.553.553Z" transform="translate(0 -64)" fill="#fff"/>
+            <path id="Path_6" data-name="Path 6" d="M448.553,113.306a.554.554,0,0,0,.553-.553v-5.533a.553.553,0,1,0-1.107,0v5.533A.554.554,0,0,0,448.553,113.306Z" transform="translate(-424.762 -104.453)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
