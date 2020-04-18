@@ -52,7 +52,7 @@
 body {
   padding-top: 70px;
   font-family: "Okra", sans-serif !important;
-  background-color: #f4f6f3;
+  background-image: url('../images/app_bg.png');
 }
 
 .notify-row .badge {
