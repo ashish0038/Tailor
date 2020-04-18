@@ -130,69 +130,96 @@
 				<div class="col-sm-8 col-md-10 whitebg-right">
 					<div class="profile-content">
 						<div class="row">
-							<div class="col-sm-12">
+							<div class="col-sm-12 p-0">
 								<h1 class="dashboard_title">Notifications</h1>
 							</div>
 						</div>
 						<div class="row">
-							<div class="col-xs-12">
-								<div class="notification_box">
+							<div class="col-sm-12 col-md-6">
+								<div class="white_bg">
+									<h2 class="profile-sub-title mb-10">Create Notification</h2>
+									<div class="profile-form">
+										<div class="form-group">
+											<label for="">Order Id</label>
+											<input type="text" class="form-control" placeholder="Search Order#">
+										</div>
+										<div class="form-group">
+											<label for="">User Name</label>
+											<input type="text" class="form-control" placeholder="User Name">
+										</div>
+										<div class="form-group">
+											<label for="">Phone No</label>
+											<input type="text" class="form-control" placeholder="#" value="">
+										</div>
+										<div class="form-group">
+											<label for="">Order Status</label>
+											<select class="form-control">
+												<option>Completed</option>
+												<option>In Progress</option>
+												<option>Still need time</option>
+											</select>
+										</div>
+										<div class="form-group">
+											<label for="">Any Comments </label>
+											<textarea rows="4" class="form-control" placeholder="Comments"
+												style="height: auto;"></textarea>
+										</div>
+									</div>
+									<div class="row">
+										<div class="col-sm-12 text-right">
+											<div class="profile-btn-box">
+												<button class="profile-btn"> Submit </button>
+												<button class="profile-btn-cancel"> Cancel
+												</button>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<div class="col-sm-12 col-md-6">
+								<div class="white_bg">
+									<h2 class="profile-sub-title mb-10">List of Notification</h2>
+									<!-- Alerts -->
+									<div class="profile-card-box">
+										<div class="row">
+											<div class="col-sm-6 text-left">
+												<i class="fa fa-bell address-icon"></i>
+												<span class="p-c-title"> Order #123</span>
+											</div>
+											<div class="col-sm-6 text-right">
+												<a href="#">
+													<span class="p-edit-icon">
+														<i class="fa fa-paper-plane"></i>
+														Resend
+													</span>
+												</a>
+												<a href="#">
+													<span class="p-edit-icon">
+														<i class="fa fa-trash"></i>
+														Delete
+													</span>
+												</a>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-sm-12">
+												<div class="p-alert-box">
+													<p class="p-alert-note">Status: In progress </p>
+													<span class="p-o-items">Items: 1 X shirt</span>
+													<span class="p-o-items">Comments: In progress</span>
+													
+												</div>
+											</div>
+										</div>
+										<div class="row">
+											<div class="col-sm-12">
+												<span class="p-o-details">Date: 23
+													November 2020 Time : 10 AM</span>
+											</div>
+										</div>
+									</div>
+									<!-- Alerts end -->
 
-									<div class="alert fml_notification" role="alert">
-										<h4 class="alert-heading">Notification One
-											<button type="button" class="close" data-dismiss="alert" aria-label="Close">
-												<span aria-hidden="true">&times;</span>
-											</button>
-										</h4>
-										
-										<p>You successfully read this important alert message. This example
-											text is going to run a bit longer so that you can see how spacing within an
-											alert works with this kind of content.</p>
-										<hr>
-										<p class="fml_notif_date">Date : 12 March 2020 , Time : 01:30 PM</p>
-									</div>
-									
-									<div class="alert fml_notification" role="alert">
-										<h4 class="alert-heading">Notification Two
-											<button type="button" class="close" data-dismiss="alert" aria-label="Close">
-												<span aria-hidden="true">&times;</span>
-											</button>
-										</h4>
-										
-										<p>You successfully read this important alert message. This example
-											text is going to run a bit longer so that you can see how spacing within an
-											alert works with this kind of content.</p>
-										<hr>
-										<p class="fml_notif_date">Date : 12 March 2020 , Time : 01:30 PM</p>
-									</div>
-
-									<div class="alert fml_notification" role="alert">
-										<h4 class="alert-heading">Notification three
-											<button type="button" class="close" data-dismiss="alert" aria-label="Close">
-												<span aria-hidden="true">&times;</span>
-											</button>
-										</h4>
-										
-										<p>You successfully read this important alert message. This example
-											text is going to run a bit longer so that you can see how spacing within an
-											alert works with this kind of content.</p>
-										<hr>
-										<p class="fml_notif_date">Date : 12 March 2020 , Time : 01:30 PM</p>
-									</div>
-
-									<div class="alert fml_notification" role="alert">
-										<h4 class="alert-heading">Notification Four
-											<button type="button" class="close" data-dismiss="alert" aria-label="Close">
-												<span aria-hidden="true">&times;</span>
-											</button>
-										</h4>
-										
-										<p>You successfully read this important alert message. This example
-											text is going to run a bit longer so that you can see how spacing within an
-											alert works with this kind of content.</p>
-										<hr>
-										<p class="fml_notif_date">Date : 12 March 2020 , Time : 01:30 PM</p>
-									</div>
 
 								</div>
 							</div>
