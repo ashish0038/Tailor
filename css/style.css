@@ -335,8 +335,8 @@ body {
 
 @media only screen and (min-width: 320px) and (max-width: 1024px) {
   .mob_logo {
-    margin-left: 16px;
-    margin-top: -5px;
+    margin-left: 12px;
+    margin-top: -12px;
     width: 150px;
   }
   .navbar-toggle {
@@ -352,7 +352,7 @@ body {
     background-color: #fff;
   }
   .navbar-default {
-    background-color: #eeeff2;
+    background-color: #ffffff;
   }
 }
 
@@ -516,16 +516,22 @@ body {
   padding: 0px 15px;
   box-shadow: 2px 3px 20px rgba(0, 0, 0, 0.05);
   transition: all 0.3s ease 0s;
+  border-radius: 25px;
 }
 .dashboard .option-box:hover .option-icon,
-.dashboard .option-box:hover .option-label,
-.dashboard .option-box.ic_active .option-label,
 .dashboard .option-box.ic_active .option-icon,
 .dashboard .option-box:hover {
   color: #22CAE8;
   background-color: #ffffff;
   box-shadow: 2px 3px 20px rgba(0, 0, 0, 0.05);
   transition: all 0.3s ease 0s;
+  border-radius: 25px;
+}
+.dashboard .option-box.ic_active .option-label, 
+.dashboard .option-box:hover .option-label{
+  color: #22CAE8;
+  background-color: #ffffff;
+  border-radius: 25px;
 }
 .dashboard .user-details a {
   color: #606060;
